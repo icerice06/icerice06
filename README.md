@@ -11,9 +11,9 @@
  
 ## 연락처
 
-- 이메일: [bin37436899@gmail.com](mailto:bin37436899@gmail.com)
-- Instagram: [Instagram 프로필 링크](https://www.instagram.com/chan_bin0406){:target="_blank"}
-- GitHub: [GitHub 프로필 링크](https://github.com/icerice06){:target="_blank"}
+- 이메일: <a href="mailto:bin37436899@gmail.com" target="_blank">bin37436899@gmail.com</a><br>
+- Instagram: <a href="https://www.instagram.com/chan_bin0406" target="_blank">Instagram 프로필 링크</a><br>
+- GitHub: <a href="https://github.com/icerice06" target="_blank">GitHub 프로필 링크</a>
 
 보유능력
 -------------

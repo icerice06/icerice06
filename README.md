@@ -20,9 +20,9 @@
 - Instagram: <a href="https://www.instagram.com/chan_bin0406" target="_blank">Instagram 프로필 링크</a>
 - GitHub: <a href="https://github.com/icerice06" target="_blank">GitHub 프로필 링크</a>
 </br>
+
 보유능력
 -------------
-
 ### Infra
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">&nbsp;

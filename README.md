@@ -8,10 +8,12 @@
   - 중학교: 통영중학교
   - 고등학교: 경북소프트웨어고등학교
 </br>
+
 ## 좌우명
 
 ### "오늘은 내일보다 젊다"
 </br>
+
 ## 연락처
 
 - 이메일: <a href="mailto:bin37436899@gmail.com" target="_blank">bin37436899@gmail.com</a>

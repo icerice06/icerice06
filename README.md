@@ -1,7 +1,24 @@
 정찬빈(鄭粲頻)
 =============
->2006.04.06
 
+## 소개
+
+- **이름**: 정찬빈
+- **생년월일**: 2006년 4월 6일
+- **좌우명**: "오늘은 내일보다 젊다"
+- **학력**:
+  - 초등학교: 유영초등학교
+  - 중학교: 통영중학교
+  - 고등학교: 경북소프트웨어고등학교
+ 
+## 연락처
+
+- 이메일: bin37436899@gmail.com
+- instagram: [instagram 프로필 링크](https://www.instagram.com/chan_bin0406)
+- GitHub: [GitHub 프로필 링크](https://github.com/icerice06)
+
+보유능력
+-------------
 ### Infra
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white">&nbsp;

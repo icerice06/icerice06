@@ -1,8 +1,6 @@
 정찬빈(鄭粲頻)
 =============
 
-## 소개
-
 - **이름**: 정찬빈
 - **생년월일**: 2006년 4월 6일
 - **좌우명**: "오늘은 내일보다 젊다"
@@ -13,9 +11,9 @@
  
 ## 연락처
 
-- 이메일: bin37436899@gmail.com
-- instagram: [instagram 프로필 링크](https://www.instagram.com/chan_bin0406)
-- GitHub: [GitHub 프로필 링크](https://github.com/icerice06)
+- 이메일: [bin37436899@gmail.com](mailto:bin37436899@gmail.com)
+- Instagram: [Instagram 프로필 링크](https://www.instagram.com/chan_bin0406){:target="_blank"}
+- GitHub: [GitHub 프로필 링크](https://github.com/icerice06){:target="_blank"}
 
 보유능력
 -------------

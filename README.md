@@ -30,39 +30,3 @@
 <img src="https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=white">&nbsp;
-
-</br>
-
-
-<div align="center">
-  
-## 🛐 오늘도 기도합니다 🛐
-</div>
-
-
-<div align="center">
-
-**하드디스크에 계시는 우리 프로그램이시여**  
-디버그를 거룩하게 하옵시고,  
-컴파일에 임하옵시며,  
-명령이 키보드에서 이루어진 것과 같이  
-모니터에서도 이루어지게 하옵소서.  
-
-**일용할 데이터를 주시옵고**  
-우리가 프로그램의 오류를 용서한 것과 같이  
-우리의 오타를 사하여 주옵시고,  
-우리를 버그에 들게 하지 마옵시며,  
-다만 불시의 에러에서 구하옵소서.  
-
-**대개 속도와 파워와 안정성이**  
-프로그램에게 영원히 있사옵니다.
-
-</div>
-
-
-<div align="center">
-
-### 🖱 엔터
-
-</div>
-
